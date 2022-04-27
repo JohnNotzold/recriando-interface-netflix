@@ -80,3 +80,17 @@ header nav a:hover{
 .botao i{
     margin: 5px;
 }
+
+.container{
+    margin-left: 30px;
+}
+
+.serie-principal .container{
+    width: 70%;
+}
+
+.box-series{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
